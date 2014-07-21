@@ -8,4 +8,4 @@ to download and install the dependent modules from npm global registry.
 
 **NOTE**: The `/server/discover.js` script will not run until you install, add,
 and configure a MySQL data source, following the instructions in
-[Getting Started with LoopBack](See http://docs.strongloop.com/display/LB2/Connect+an+API+to+a+datasource).
+[Getting Started with LoopBack](http://docs.strongloop.com/display/LB2/Connect+an+API+to+a+datasource).
